@@ -23,3 +23,5 @@ Permitir a los estudiantes:
 ```bash
 git clone https://github.com/tuusuario/presupuesto-operativo.git
 cd presupuesto-operativo
+npm install
+npm start
